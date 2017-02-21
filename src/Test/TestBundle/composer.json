@@ -23,7 +23,7 @@
   },
   "target-dir": "Test/TestBundle",
   "repositories": [{
-
+    "https://github.com/phpwithwp/Test"
   }],
   "extra": {
     "branch-alias": {
