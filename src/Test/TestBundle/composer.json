@@ -1,0 +1,32 @@
+{
+  "name": "test/testbundle",
+  "description": "A Test Bundle",
+  "type": "symfony-bundle",
+  "authors": [{
+    "name": "Laukit Gohel",
+    "email": "laukit@ilogixinfotech.com"
+  }],
+  "keywords":[
+    "test bundle"
+  ],
+  "licence":[
+    "MIT"
+  ],
+  "require":{
+
+  },
+  "autoload": {
+    "psr-0":{
+      "Test\\TestBundle": ""
+    }
+  },
+  "target-dir": "Test/TestBundle",
+  "repositories": [{
+
+  }],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1"
+    }
+  }
+}
