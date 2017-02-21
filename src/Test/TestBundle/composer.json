@@ -23,8 +23,8 @@
   },
   "target-dir": "Test/TestBundle",
   "repositories": [{
-      "type": "vcs",
-      "url": "https://github.com/phpwithwp/Test"
+      "type": "git",
+      "url": "https://github.com/phpwithwp/Test.git"
   }],
   "extra": {
     "branch-alias": {
