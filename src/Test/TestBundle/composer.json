@@ -13,7 +13,8 @@
     "MIT"
   ],
   "require":{
-
+      "php": ">=5.5.9",
+      "symfony/config": "~3.2"
   },
   "autoload": {
     "psr-0":{
